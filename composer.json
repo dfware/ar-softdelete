@@ -29,7 +29,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"dfware\\ar\\softdelete\\": "src"}
+        "psr-4": {"yii2tech\\ar\\softdelete\\": "src"}
     },
     "extra": {
         "branch-alias": {
